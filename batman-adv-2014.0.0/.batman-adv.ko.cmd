@@ -1,0 +1,1 @@
+cmd_/home/untu/Desktop/dc/batman/2014/batman-adv-2014.0.0/batman-adv.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-23-generic/scripts/module-common.lds --build-id  -o /home/untu/Desktop/dc/batman/2014/batman-adv-2014.0.0/batman-adv.ko /home/untu/Desktop/dc/batman/2014/batman-adv-2014.0.0/batman-adv.o /home/untu/Desktop/dc/batman/2014/batman-adv-2014.0.0/batman-adv.mod.o
